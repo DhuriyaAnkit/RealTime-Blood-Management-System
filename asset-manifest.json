@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RealTime-Blood-Management-System/static/css/main.f9df8cb7.css",
+    "main.js": "/RealTime-Blood-Management-System/static/js/main.9196b5ba.js",
+    "static/js/453.366efd4d.chunk.js": "/RealTime-Blood-Management-System/static/js/453.366efd4d.chunk.js",
+    "static/media/SuperHero.png": "/RealTime-Blood-Management-System/static/media/SuperHero.412618934f9d518d8fb3.png",
+    "static/media/LOGIN.png": "/RealTime-Blood-Management-System/static/media/LOGIN.c25036c653e3e653cdbf.png",
+    "static/media/bloodDonor.png": "/RealTime-Blood-Management-System/static/media/bloodDonor.770d66a28a9e9c31a9fc.png",
+    "static/media/PicFront.jpg": "/RealTime-Blood-Management-System/static/media/PicFront.1f71374c8684e75403b8.jpg",
+    "static/media/India.png": "/RealTime-Blood-Management-System/static/media/India.ec5719db8a16e7016885.png",
+    "static/media/DAS.jpg": "/RealTime-Blood-Management-System/static/media/DAS.622d11bd94e5729db391.jpg",
+    "static/media/LOGO.png": "/RealTime-Blood-Management-System/static/media/LOGO.b1f1077dbdedcd7965e0.png",
+    "index.html": "/RealTime-Blood-Management-System/index.html",
+    "main.f9df8cb7.css.map": "/RealTime-Blood-Management-System/static/css/main.f9df8cb7.css.map",
+    "main.9196b5ba.js.map": "/RealTime-Blood-Management-System/static/js/main.9196b5ba.js.map",
+    "453.366efd4d.chunk.js.map": "/RealTime-Blood-Management-System/static/js/453.366efd4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9df8cb7.css",
+    "static/js/main.9196b5ba.js"
+  ]
+}
